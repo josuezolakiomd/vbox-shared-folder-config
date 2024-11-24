@@ -1,5 +1,3 @@
----
-
 # **vbox-shared-folder-helper**
 A Python script to automate the configuration of shared folders in VirtualBox by adding the current user to the `vboxsf` group and updating the operating system. This script ensures seamless integration and optimal performance for shared folders.
 
