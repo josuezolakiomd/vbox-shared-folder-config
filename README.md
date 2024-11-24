@@ -1,5 +1,3 @@
-Here's a professional and user-friendly `README.md` file for your GitHub repository:
-
 ---
 
 # **vbox-shared-folder-helper**
@@ -75,5 +73,3 @@ Stay tuned for:
 🚀 **Contributions are welcome!**
 
 ---
-
-Let me know if you’d like more sections added, such as troubleshooting or a FAQ!
