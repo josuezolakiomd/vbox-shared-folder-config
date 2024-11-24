@@ -23,7 +23,7 @@ def display_final_message():
     print("💻 Script developed by Josue Zolakio on 11/22/2024.\n")
     print("🛠️ Stay tuned for more awesome tools! 🚀\n")
     print("⚠️ To apply the changes, please log out or restart your system. 🔄")
-    print("🔐 Logging out ensures that all configurations are properly updated. ✅")
+    print("🔐 Logging out ensures that all configurations are properly updated. ✅\n")
 
 print("💻 Booting up... 🔄 Initializing components...\n")
 print("✅ Initialization complete!\n")
